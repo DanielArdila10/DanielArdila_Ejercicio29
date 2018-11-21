@@ -28,7 +28,7 @@ int main()
 			uActual[i]=0.0;
 			}
 	}
-printU(uActual, N, dx);/*, se  puso en eje1.x > condiciones_iniciales.txt*/
+printU(uActual, N, dx);/*, se  puso en eje1.x > condiciones.txt*/
 		
 	/* ahora aplico la adveccion en ese arreglo y se lo agrego a la uNueva
 
