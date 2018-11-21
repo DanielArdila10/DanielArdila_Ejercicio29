@@ -11,7 +11,7 @@ plt.plot(y, datosU0, c = "b", label='t = 0')
 plt.plot(y, datosUNT, c = "g", label='nt')
 plt.ylabel("Magnitud")
 plt.xlabel("Posicion")
-plt.savefig("GaficaTaller9.png")
+plt.savefig("Gafica.png")
 
 
 	 
