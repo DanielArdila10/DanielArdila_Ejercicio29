@@ -2,8 +2,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-datosU0 = np.loadtxt("dotosUtiempo0.txt")
-datosUNT = np.loadtxt("dotosUtiempoNT.txt")
+datosU0 = np.loadtxt("condiciones_iniciales.txt")
+datosUNT = np.loadtxt("condiciones.txt")
 
 y = np.linspace(-1,1,len(datosU0))
 
